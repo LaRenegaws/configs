@@ -1,0 +1,11 @@
+[user]
+	name = Paul Zhang
+	email = paul01134@hotmail.com
+[alias]
+	co = checkout
+	st = status
+	cm = commit
+	br = branch
+	df = diff
+	la = log --graph --decorate --pretty=oneline --abbrev-commit --all
+  chp = cherry-pick
