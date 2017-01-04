@@ -8,4 +8,6 @@
 	br = branch
 	df = diff
 	la = log --graph --decorate --pretty=oneline --abbrev-commit --all
-  	chp = cherry-pick
+	chp = cherry-pick
+[push]
+	default = simple
